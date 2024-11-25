@@ -5,8 +5,8 @@ const stock_a_button = document.getElementById('stock-a');
 const stock_b_button = document.getElementById('stock-b');
 
 i = 0
-first_messages = ["is now at 210", "is now at 210.50", "is now at 189", "is now at 203", "is now at 175", "is now at 149"]
-second_messages = ["is also at 210", "is at 218", "is at 205", "is at 194", "is at 182", "is at 165"]
+first_messages = ["is now at 210", "is now at 210", "is now at 189", "is now at 203", "is now at 175", "is now at 149"]
+second_messages = ["is also at 210", "is at 218.50", "is at 205", "is at 194", "is at 182", "is at 165"]
 
 display_string = `
   <div class="option-container">
